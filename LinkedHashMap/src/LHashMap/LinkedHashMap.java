@@ -123,6 +123,7 @@ public class LinkedHashMap {
 			choice = sc.nextInt();
 
 		}
+		sc.close();
 
 	}
 
